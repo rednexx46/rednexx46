@@ -1,6 +1,6 @@
 <div align="center">
 
-  # Olá mundo, sou o José Xavier 👋
+  # Hi there, I'm José Xavier 👋
   ### Software Engineer & Systems Architect
 
   <a href="https://readme-typing-svg.demolab.com">
@@ -21,40 +21,40 @@
 
 ---
 
-### 👨‍💻 Sobre Mim
+### 👨‍💻 About Me
 
-Engenheiro de software focado no desenho e implementação de **plataformas SaaS de produção**, **sistemas distribuídos**, **arquiteturas IoT ponta-a-ponta** e **backends de alta performance (Go & Python)**.
+Software Engineer focused on architecting and delivering **production SaaS platforms**, **distributed systems**, **end-to-end IoT solutions**, and **high-performance backends (Go & Python)**.
 
-Com experiência no ciclo de vida completo de engenharia — desde sistemas embutidos e telecomunicações até à orquestração na cloud e interfaces modernas:
+Experienced across the full engineering lifecycle — from low-level embedded hardware and wireless protocols to cloud orchestration and modern interfaces:
 
-- 🛰️ **IoT & Sistemas Embutidos:** Desenvolvimento de firmware de baixo consumo em **MicroPython para ESP32**, comunicação peer-to-peer sem fios via protocolo **ESP-NOW**, telemetria bidirecional em tempo real (**MQTT & WebSockets**) e ecossistemas móveis nativos com **iOS (Swift)** e **Android (Kotlin)**.
-- ⚡ **Backends & Microsserviços Escaláveis:** APIs concorrentes em **Go (Golang)** e **Python (FastAPI)**, filas assíncronas e pub/sub com **Redis**, bases de dados relacionais e documentais (**PostgreSQL**, **MongoDB**) e armazenamento distribuído compatível com S3 (**RustFS**).
-- 🤖 **Inteligência Artificial & RAG:** Integração de agentes conversacionais autónomos, pipelines de **RAG (Retrieval-Augmented Generation)** com vector search (**Qdrant**) e inferência local otimizada.
-- 🌐 **Frontend Moderno & PWAs:** Construção de aplicações reativas de elevada fluidez com **Vue 3 (Composition API, Pinia, Vuetify 4)** e **Next.js 15 (React, Tailwind CSS)**.
+- 🛰️ **IoT & Embedded Systems:** Low-power firmware development in **MicroPython for ESP32**, wireless peer-to-peer mesh communications via **ESP-NOW**, real-time bidirectional telemetry (**MQTT & WebSockets**), and native mobile ecosystems for **iOS (Swift)** and **Android (Kotlin)**.
+- ⚡ **Scalable Backends & Microservices:** Concurrent, production-grade APIs in **Go (Golang)** and **Python (FastAPI)**, asynchronous task queues and pub/sub with **Redis**, relational and document databases (**PostgreSQL**, **MongoDB**), and S3-compatible distributed storage (**RustFS**).
+- 🤖 **Artificial Intelligence & RAG:** Multi-tenant autonomous conversational agents, **RAG (Retrieval-Augmented Generation)** pipelines with vector search (**Qdrant**), and optimized inference workflows.
+- 🌐 **Modern Frontend & PWAs:** High-performance reactive web applications built with **Vue 3 (Composition API, Pinia, Vuetify 4)** and **Next.js 15 (React, Tailwind CSS)**.
 
 ---
 
-### 🚀 Projetos em Destaque & Plataformas em Produção
+### 🚀 Featured Projects & Production Platforms
 
 <div align="center">
 
-| Projeto | Descrição | Stack | Acesso & Links |
+| Project | Description | Stack | Live & Links |
 |:---|:---|:---|:---:|
-| 🤖 **Agentify AI** | Plataforma SaaS multi-tenant para criação e gestão de **agentes de IA conversacionais com RAG**. Suporta widgets embutíveis para websites, processamento assíncrono de tarefas pesadas em workers e streaming em tempo real via SSE. | `Next.js 15` `FastAPI` `Python` `Redis Queue` `Qdrant` `Ollama` `Tailwind` | <a href="https://app.agentifyai.pt"><img src="https://img.shields.io/badge/Live_App-app.agentifyai.pt-000000?style=flat-square&logo=vercel&logoColor=white" /></a> |
-| 🚗 **Importa** | Plataforma de simulação financeira e viabilidade de **importação de veículos automóveis** (Alemanha ⇄ Portugal). Inclui scrapers distribuídos em tempo real, cálculo automatizado de impostos aduaneiros (ISV/IVA) e monitorização com Grafana. | `Go 1.25` `Vue 3.5 PWA` `Puppeteer` `Redis` `MongoDB` `Grafana/Loki` | <a href="https://importa.casualidades.pt"><img src="https://img.shields.io/badge/Live_App-importa.casualidades.pt-2563EB?style=flat-square&logo=googlechrome&logoColor=white" /></a> |
-| 📅 **ShiftMate** | Plataforma SaaS de **gestão e escala inteligente de turnos** para equipas e estabelecimentos. Facilita o planeamento operacional, convites por token, gestão de equipas e controlo de horários em tempo real. | `Go` `Vue 3` `Vuetify 4` `TypeScript` `Pinia` `Tailwind CSS` `JWT` | <a href="https://shiftmate.casualidades.pt"><img src="https://img.shields.io/badge/Live_App-shiftmate.casualidades.pt-059669?style=flat-square&logo=clockify&logoColor=white" /></a> |
-| 📸 **Outro Olhar** *(Lumina)* | Plataforma profissional de **fotografia, portfólio e galeria de álbuns privados** para clientes. Motor de processamento, compressão e geração de previews de imagem em Go com storage de alta performance compatível com S3. | `Go 1.25` `Vue 3` `TypeScript` `PostgreSQL` `RustFS (S3)` `Vuetify` | <a href="https://outro-olhar.casualidades.pt"><img src="https://img.shields.io/badge/Live_App-outro--olhar.casualidades.pt-7C3AED?style=flat-square&logo=unsplash&logoColor=white" /></a> |
-| 🛰️ **ESP32 Mesh IoT Ecosystem** | Arquitetura distribuída completa de **sensores IoT em rede de malha (ESP-NOW)** com nós de monitorização ambiental (BME680), orquestrador central, backend de telemetria, painel web e companion apps nativas para iOS e Android. | `Go` `MicroPython` `ESP-NOW` `MQTT` `Next.js` `Swift` `Kotlin` | [Firmware](https://github.com/rednexx46/esp32-firmware) • [Orchestrator](https://github.com/rednexx46/esp32-orchestrator) • [API](https://github.com/rednexx46/esp32-backend-api) • [Dashboard](https://github.com/rednexx46/esp32-frontend) • [iOS](https://github.com/rednexx46/esp32-ios-companion-app) • [Android](https://github.com/rednexx46/esp32-android-companion-app) |
+| 🤖 **Agentify AI** | Multi-tenant SaaS platform for creating and embedding **conversational AI agents powered by RAG**. Features embeddable website widgets, background worker queues, and real-time streaming via Server-Sent Events (SSE). | `Next.js 15` `FastAPI` `Python` `Redis Queue` `Qdrant` `Ollama` `Tailwind` | <a href="https://app.agentifyai.pt"><img src="https://img.shields.io/badge/Live_App-app.agentifyai.pt-000000?style=flat-square&logo=vercel&logoColor=white" /></a> |
+| 🚗 **Importa** | Real-time vehicle import cost simulation and financial viability platform (Germany ⇄ Portugal). Features distributed live scraping workers, automated customs tax calculations (ISV/VAT), and Grafana telemetry. | `Go 1.25` `Vue 3.5 PWA` `Puppeteer` `Redis` `MongoDB` `Grafana/Loki` | <a href="https://importa.casualidades.pt"><img src="https://img.shields.io/badge/Live_App-importa.casualidades.pt-2563EB?style=flat-square&logo=googlechrome&logoColor=white" /></a> |
+| 📅 **ShiftMate** | Intelligent SaaS platform for **shift tracking, employee scheduling, and team management**. Simplifies business operations, token-based invitations, group rosters, and real-time attendance. | `Go` `Vue 3` `Vuetify 4` `TypeScript` `Pinia` `Tailwind CSS` `JWT` | <a href="https://shiftmate.casualidades.pt"><img src="https://img.shields.io/badge/Live_App-shiftmate.casualidades.pt-059669?style=flat-square&logo=clockify&logoColor=white" /></a> |
+| 📸 **Outro Olhar** *(Lumina)* | Professional **photography portfolio, client gallery, and private album delivery** platform. Built with a high-throughput Go backend for image processing, preview optimization, and S3-compatible distributed storage. | `Go 1.25` `Vue 3` `TypeScript` `PostgreSQL` `RustFS (S3)` `Vuetify` | <a href="https://outro-olhar.casualidades.pt"><img src="https://img.shields.io/badge/Live_App-outro--olhar.casualidades.pt-7C3AED?style=flat-square&logo=unsplash&logoColor=white" /></a> |
+| 🛰️ **ESP32 Mesh IoT Ecosystem** | Full-stack distributed **sensor mesh network (ESP-NOW)** with low-power environmental monitoring nodes (BME680), central Go orchestrator, telemetry API, live web dashboard, and native iOS & Android companion apps. | `Go` `MicroPython` `ESP-NOW` `MQTT` `Next.js` `Swift` `Kotlin` | [Firmware](https://github.com/rednexx46/esp32-firmware) • [Orchestrator](https://github.com/rednexx46/esp32-orchestrator) • [API](https://github.com/rednexx46/esp32-backend-api) • [Dashboard](https://github.com/rednexx46/esp32-frontend) • [iOS](https://github.com/rednexx46/esp32-ios-companion-app) • [Android](https://github.com/rednexx46/esp32-android-companion-app) |
 
 </div>
 
 ---
 
-### 🛠️ Tech Stack & Ferramentas
+### 🛠️ Tech Stack & Tools
 
 <table>
   <tr>
-    <td width="20%"><strong>Linguagens</strong></td>
+    <td width="20%"><strong>Languages</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -68,7 +68,7 @@ Com experiência no ciclo de vida completo de engenharia — desde sistemas embu
     </td>
   </tr>
   <tr>
-    <td><strong>Backend & Sistemas</strong></td>
+    <td><strong>Backend & Systems</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Go_Stdlib_%2F_Chi-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
@@ -122,7 +122,7 @@ Com experiência no ciclo de vida completo de engenharia — desde sistemas embu
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 GitHub & Activity Analytics
 
 <div align="center">
   <a href="https://github.com/rednexx46">
@@ -137,10 +137,10 @@ Com experiência no ciclo de vida completo de engenharia — desde sistemas embu
 
 ---
 
-### 💬 Vamos conversar?
+### 💬 Let's Connect!
 
 <div align="center">
-  <p>Estou sempre aberto a discutir novos projetos, engenharia de sistemas distribuídos, IoT ou desenvolvimento de plataformas de larga escala.</p>
+  <p>Always open to discussing distributed systems architecture, IoT mesh engineering, or large-scale SaaS platform development.</p>
   
   <a href="mailto:josexavier46@outlook.pt">
     <img src="https://img.shields.io/badge/Email-josexavier46%40outlook.pt-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
