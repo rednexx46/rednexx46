@@ -1,6 +1,6 @@
 <div align="center">
 
-  # Olá mundo, sou o José Xavier 👋
+  # Hi there, I'm José Xavier 👋
   ### Software Engineer & Systems Architect
 
   <a href="https://readme-typing-svg.demolab.com">
@@ -21,23 +21,23 @@
 
 ---
 
-### 👨‍💻 Sobre Mim
+### 👨‍💻 About Me
 
-Engenheiro de software focado no desenvolvimento de **sistemas distribuídos**, **arquiteturas IoT ponta-a-ponta**, **backends de alta performance (Go & Python)** e **infraestruturas de IA self-hosted**.
+Software Engineer focused on building **distributed systems**, **end-to-end IoT architectures**, **high-performance backends (Go & Python)**, and **self-hosted AI infrastructure**.
 
-Apaixonado por desenhar sistemas desde o nível do silício até à cloud:
-- 🛰️ **IoT & Sistemas Embutidos:** Desenvolvimento de firmware de baixo consumo em **MicroPython / C++ para ESP32**, redes em malha peer-to-peer proprietárias via **ESP-NOW**, telemetria em tempo real via **MQTT/WebSockets** e aplicações companion nativas para **iOS (Swift)** e **Android (Kotlin)**.
-- ⚡ **Backends & Microsserviços:** APIs resilientes e concorrentes em **Go (Golang)** e **Python (FastAPI)** com padrões de graceful shutdown, pools de conexões e processamento assíncrono orientado a eventos.
-- 🤖 **Homelab & IA Self-Hosted:** Cluster de computação **Kubernetes (k3s)** bare-metal com aceleração por GPU **AMD ROCm**, servindo LLMs locais (Ollama / Qwen 2.5), motores RAG com vector search (**Qdrant**) e automações distribuídas com **n8n** e agentes autónomos via Telegram.
-- 🌐 **Frontend Moderno & 3D:** Dashboards reativos e PWAs escaláveis com **Vue 3**, **Next.js 15**, **TypeScript**, **Tailwind CSS** e renderização 3D paramétrica no browser com **Three.js**.
+Passionate about architecting solutions all the way from silicon to cloud:
+- 🛰️ **IoT & Embedded Systems:** Low-power firmware development in **MicroPython / C++ for ESP32**, proprietary peer-to-peer mesh networks via **ESP-NOW**, real-time telemetry streaming via **MQTT/WebSockets**, and native companion apps for **iOS (Swift)** and **Android (Kotlin)**.
+- ⚡ **Backends & Microservices:** Resilient, concurrent APIs in **Go (Golang)** and **Python (FastAPI)** designed with graceful shutdown patterns, connection pooling, and event-driven asynchronous processing.
+- 🤖 **Homelab & Self-Hosted AI:** Bare-metal **Kubernetes (k3s)** cluster accelerated by **AMD ROCm** GPUs, serving warm local LLMs (Ollama / Qwen 2.5), RAG pipelines with vector search (**Qdrant**), and autonomous agent workflows via **n8n** and Telegram gateways.
+- 🌐 **Modern Frontend & 3D:** Scalable PWAs and reactive dashboards with **Vue 3**, **Next.js 15**, **TypeScript**, **Tailwind CSS**, and browser-based parametric 3D rendering with **Three.js**.
 
 ---
 
-### 🛠️ Tech Stack & Ferramentas
+### 🛠️ Tech Stack & Tools
 
 <table>
   <tr>
-    <td width="20%"><strong>Linguagens</strong></td>
+    <td width="20%"><strong>Languages</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -104,26 +104,26 @@ Apaixonado por desenhar sistemas desde o nível do silício até à cloud:
 
 ---
 
-### 🚀 Projetos em Destaque
+### 🚀 Featured Projects & Systems
 
 <div align="center">
 
-| Projeto | Descrição | Stack | Repositórios |
+| Project | Description | Stack | Repositories |
 |:---|:---|:---|:---:|
-| 🛰️ **ESP32 Mesh IoT Ecosystem** | Ecossistema completo e distribuído de sensores IoT em malha (ESP-NOW), orquestrador central, backend de telemetria em tempo real, painel web e apps móveis nativas. | `Go` `MicroPython` `ESP-NOW` `MQTT` `Next.js` `Swift` `Kotlin` | [Firmware](https://github.com/rednexx46/esp32-firmware) • [Orchestrator](https://github.com/rednexx46/esp32-orchestrator) • [API](https://github.com/rednexx46/esp32-backend-api) • [Dashboard](https://github.com/rednexx46/esp32-frontend) • [iOS](https://github.com/rednexx46/esp32-ios-companion-app) • [Android](https://github.com/rednexx46/esp32-android-companion-app) |
-| 🤖 **Agentify** | Plataforma SaaS multi-tenant para criação de agentes de IA conversacionais com RAG, operando 100% em infraestrutura local (Ollama + Qdrant) com streaming assíncrono via Redis. | `Next.js 15` `FastAPI` `Redis Queue` `Qdrant` `SSE` `Ollama` | *(Privado / Showcase)* |
-| 🛸 **Waycrafter** | Gerador e otimizador de planos de voo para Drones com suporte a exportação espacial nos formatos KML / KMZ. | `Python` `Spatial Geo` `KML/KMZ` `GIS` | [Ver Projeto](https://github.com/rednexx46/waycrafter) |
-| 🚗 **Importa** | Plataforma de simulação e viabilidade financeira para importação automóvel (Alemanha ⇄ Portugal) com motor de scraping em tempo real e telemetria analítica. | `Go 1.25` `Vue 3 PWA` `Puppeteer` `Redis` `MongoDB` `Grafana` | *(Em Desenvolvimento)* |
-| ⚡ **AI Homelab Cluster (k3s)** | Cluster Kubernetes bare-metal com aceleração ROCm AMD para inferência contínua de LLMs (Qwen 2.5), orquestração via n8n e agente de automação com gateway Telegram. | `k3s` `Ollama ROCm` `n8n` `Tailscale` `Docker` | *(Infraestrutura Interna)* |
-| 🔐 **Cipher API** | Microsserviço REST de alta performance concebido em Go para processos de cifra, desencriptação e tratamento seguro de dados. | `Go` `Cryptography` `REST API` | [Ver Projeto](https://github.com/rednexx46/cipher-api) |
-| 🛠️ **Supporta** | Infraestrutura plug-and-play de suporte técnico e live chat para developers e startups, com motor WebSocket em Go e widget embutível. | `Go` `PostgreSQL` `WebSockets` `Vue 3` `Docker` | *(Showcase)* |
-| 🌦️ **IPMA API Wrapper** | Cliente e parser em Python para integração e consumo de previsões meteorológicas oficiais do Instituto Português do Mar e da Atmosfera. | `Python` `REST` `Automation` | [Ver Projeto](https://github.com/rednexx46/ipma-api) |
+| 🛰️ **ESP32 Mesh IoT Ecosystem** | Complete end-to-end distributed sensor mesh network (ESP-NOW), central Go orchestrator, real-time telemetry backend, web dashboard, and native mobile companion apps. | `Go` `MicroPython` `ESP-NOW` `MQTT` `Next.js` `Swift` `Kotlin` | [Firmware](https://github.com/rednexx46/esp32-firmware) • [Orchestrator](https://github.com/rednexx46/esp32-orchestrator) • [API](https://github.com/rednexx46/esp32-backend-api) • [Dashboard](https://github.com/rednexx46/esp32-frontend) • [iOS](https://github.com/rednexx46/esp32-ios-companion-app) • [Android](https://github.com/rednexx46/esp32-android-companion-app) |
+| 🤖 **Agentify** | Multi-tenant SaaS platform for conversational AI agents with RAG, operating 100% on self-hosted infrastructure (Ollama + Qdrant) with asynchronous Redis streaming queues. | `Next.js 15` `FastAPI` `Redis Queue` `Qdrant` `SSE` `Ollama` | *(Private / Showcase)* |
+| 🛸 **Waycrafter** | Autonomous drone flight plan generator and spatial KML/KMZ exporter for GIS and waypoint mission mapping. | `Python` `Spatial Geo` `KML/KMZ` `GIS` | [View Project](https://github.com/rednexx46/waycrafter) |
+| 🚗 **Importa** | Real-time vehicle import cost simulation and analytics engine (Germany ⇄ Portugal) featuring live web scraping workers, Redis job queues, and WebSocket telemetry. | `Go 1.25` `Vue 3 PWA` `Puppeteer` `Redis` `MongoDB` `Grafana` | *(In Development)* |
+| ⚡ **AI Homelab Cluster (k3s)** | Bare-metal Kubernetes cluster with AMD ROCm GPU acceleration running continuous local LLM inference (Qwen 2.5), n8n workflow automation, and Telegram bot gateways. | `k3s` `Ollama ROCm` `n8n` `Tailscale` `Docker` | *(Private Infrastructure)* |
+| 🔐 **Cipher API** | High-performance Go microservice designed for data encryption, decryption, and secure cryptographic operations. | `Go` `Cryptography` `REST API` | [View Project](https://github.com/rednexx46/cipher-api) |
+| 🛠️ **Supporta** | Plug-and-play support ticketing and status infrastructure for developers and startups, featuring a Go WebSocket hub and embeddable widget. | `Go` `PostgreSQL` `WebSockets` `Vue 3` `Docker` | *(Showcase)* |
+| 🌦️ **IPMA API Wrapper** | Python client and parser for integrating official weather forecasts and meteorological observations from the Portuguese IPMA institute. | `Python` `REST` `Automation` | [View Project](https://github.com/rednexx46/ipma-api) |
 
 </div>
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 GitHub & Activity Analytics
 
 <div align="center">
   <a href="https://github.com/rednexx46">
@@ -138,10 +138,10 @@ Apaixonado por desenhar sistemas desde o nível do silício até à cloud:
 
 ---
 
-### 💬 Vamos conversar?
+### 💬 Let's Connect!
 
 <div align="center">
-  <p>Estou sempre aberto a discutir novos projetos, arquitetura de sistemas distribuídos, IoT ou IA local.</p>
+  <p>Always open to discussing distributed systems architecture, IoT mesh solutions, or local AI engineering.</p>
   
   <a href="mailto:josexavier46@outlook.pt">
     <img src="https://img.shields.io/badge/Email-josexavier46%40outlook.pt-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
@@ -158,3 +158,4 @@ Apaixonado por desenhar sistemas desde o nível do silício até à cloud:
   <br/><br/>
   <sub><i>"Simplicity is prerequisite for reliability." — Edsger W. Dijkstra</i></sub>
 </div>
+# rednexx46
