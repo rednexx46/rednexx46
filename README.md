@@ -1,19 +1,33 @@
 <div align="center">
 
   # Hi there, I'm José Xavier 👋
-  ### Software Engineer & Systems Architect
-
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Distributed+Systems+%26+High-Performance+Backends;IoT+Mesh+Networks+%26+Embedded+Firmware;Production+SaaS+Platforms+%26+Cloud+Architectures;Go+%7C+Python+%7C+Vue+3+%7C+Next.js+%7C+TypeScript" alt="Typing SVG" />
-  </a>
+  ### Software Engineer & Systems Architect • Founder at [Casualidades](https://casualidades.pt) 🚀
 
   <p align="center">
-    <a href="https://github.com/rednexx46">
-      <img src="https://img.shields.io/badge/📍_Location-Coimbra%2C_Portugal-1e293b?style=flat-square&logo=googlemaps&logoColor=38bdf8" alt="Location" />
+    <a href="https://casualidades.pt">
+      <img src="https://img.shields.io/badge/Official_Website-casualidades.pt-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="casualidades.pt" />
     </a>
+    &nbsp;
     <a href="mailto:josexavier46@outlook.pt">
-      <img src="https://img.shields.io/badge/✉️_Email-josexavier46%40outlook.pt-1e293b?style=flat-square&logo=gmail&logoColor=38bdf8" alt="Email" />
+      <img src="https://img.shields.io/badge/Contact-josexavier46%40outlook.pt-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
     </a>
+    &nbsp;
+    <a href="https://github.com/rednexx46">
+      <img src="https://img.shields.io/badge/GitHub-rednexx46-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
+
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2600&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&lines=Founder+%26+Engineer+at+Casualidades+(casualidades.pt);100%25+Self-Hosted+Infrastructure+%26+Private+Cloud;High-Performance+Backends+in+Go+%26+Python;Autonomous+AI+Agents+%26+Local+RAG+(Ollama+%26+Qdrant);IoT+Mesh+Networks+(ESP32+%2F+ESP-NOW+%2F+MQTT)" alt="Typing SVG" />
+  </a>
+
+  <br/><br/>
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/Infrastructure-100%25_Self--Hosted-10B981?style=flat-square&logo=docker&logoColor=white" alt="100% Self-Hosted" />
+    <img src="https://img.shields.io/badge/Reliability-99.9%25_Uptime-38bdf8?style=flat-square&logo=grafana&logoColor=white" alt="99.9% Uptime" />
+    <img src="https://img.shields.io/badge/Active_Systems-%2B15_In_Production-6366f1?style=flat-square&logo=server&logoColor=white" alt="+15 Active Systems" />
+    <img src="https://img.shields.io/badge/Location-Coimbra%2C_Portugal-1e293b?style=flat-square&logo=googlemaps&logoColor=38bdf8" alt="Location" />
     <img src="https://komarev.com/ghpvc/?username=rednexx46&color=38bdf8&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
   </p>
 
@@ -21,40 +35,28 @@
 
 ---
 
-### 👨‍💻 About Me
-
-Software Engineer focused on architecting and delivering **production SaaS platforms**, **distributed systems**, **end-to-end IoT solutions**, and **high-performance backends (Go & Python)**.
-
-Experienced across the full engineering lifecycle — from low-level embedded hardware and wireless protocols to cloud orchestration and modern interfaces:
-
-- 🛰️ **IoT & Embedded Systems:** Low-power firmware development in **MicroPython for ESP32**, wireless peer-to-peer mesh communications via **ESP-NOW**, real-time bidirectional telemetry (**MQTT & WebSockets**), and native mobile ecosystems for **iOS (Swift)** and **Android (Kotlin)**.
-- ⚡ **Scalable Backends & Microservices:** Concurrent, production-grade APIs in **Go (Golang)** and **Python (FastAPI)**, asynchronous task queues and pub/sub with **Redis**, relational and document databases (**PostgreSQL**, **MongoDB**), and S3-compatible distributed storage (**RustFS**).
-- 🤖 **Artificial Intelligence & RAG:** Multi-tenant autonomous conversational agents, **RAG (Retrieval-Augmented Generation)** pipelines with vector search (**Qdrant**), and optimized inference workflows.
-- 🌐 **Modern Frontend & PWAs:** High-performance reactive web applications built with **Vue 3 (Composition API, Pinia, Vuetify 4)** and **Next.js 15 (React, Tailwind CSS)**.
-
----
-
-### 🚀 Featured Projects & Production Platforms
+### 🚀 Featured Production Platforms
 
 <div align="center">
 
-| Project | Description | Stack | Live & Links |
+| Platform | Highlights & Capabilities | Architecture | Link |
 |:---|:---|:---|:---:|
-| 🤖 **Agentify AI** | Multi-tenant SaaS platform for creating and embedding **conversational AI agents powered by RAG**. Features embeddable website widgets, background worker queues, and real-time streaming via Server-Sent Events (SSE). | `Next.js 15` `FastAPI` `Python` `Redis Queue` `Qdrant` `Ollama` `Tailwind` | <a href="https://app.agentifyai.pt"><img src="https://img.shields.io/badge/Live_App-app.agentifyai.pt-000000?style=flat-square&logo=vercel&logoColor=white" /></a> |
-| 🚗 **Importa** | Real-time vehicle import cost simulation and financial viability platform (Germany ⇄ Portugal). Features distributed live scraping workers, automated customs tax calculations (ISV/VAT), and Grafana telemetry. | `Go 1.25` `Vue 3.5 PWA` `Puppeteer` `Redis` `MongoDB` `Grafana/Loki` | <a href="https://importa.casualidades.pt"><img src="https://img.shields.io/badge/Live_App-importa.casualidades.pt-2563EB?style=flat-square&logo=googlechrome&logoColor=white" /></a> |
-| 📅 **ShiftMate** | Intelligent SaaS platform for **shift tracking, employee scheduling, and team management**. Simplifies business operations, token-based invitations, group rosters, and real-time attendance. | `Go` `Vue 3` `Vuetify 4` `TypeScript` `Pinia` `Tailwind CSS` `JWT` | <a href="https://shiftmate.casualidades.pt"><img src="https://img.shields.io/badge/Live_App-shiftmate.casualidades.pt-059669?style=flat-square&logo=clockify&logoColor=white" /></a> |
-| 📸 **Outro Olhar** *(Lumina)* | Professional **photography portfolio, client gallery, and private album delivery** platform. Built with a high-throughput Go backend for image processing, preview optimization, and S3-compatible distributed storage. | `Go 1.25` `Vue 3` `TypeScript` `PostgreSQL` `RustFS (S3)` `Vuetify` | <a href="https://outro-olhar.casualidades.pt"><img src="https://img.shields.io/badge/Live_App-outro--olhar.casualidades.pt-7C3AED?style=flat-square&logo=unsplash&logoColor=white" /></a> |
-| 🛰️ **ESP32 Mesh IoT Ecosystem** | Full-stack distributed **sensor mesh network (ESP-NOW)** with low-power environmental monitoring nodes (BME680), central Go orchestrator, telemetry API, live web dashboard, and native iOS & Android companion apps. | `Go` `MicroPython` `ESP-NOW` `MQTT` `Next.js` `Swift` `Kotlin` | [Firmware](https://github.com/rednexx46/esp32-firmware) • [Orchestrator](https://github.com/rednexx46/esp32-orchestrator) • [API](https://github.com/rednexx46/esp32-backend-api) • [Dashboard](https://github.com/rednexx46/esp32-frontend) • [iOS](https://github.com/rednexx46/esp32-ios-companion-app) • [Android](https://github.com/rednexx46/esp32-android-companion-app) |
+| 🏢 [**Casualidades Studio**](https://casualidades.pt) | Software engineering and custom digital product studio. Delivering fast web platforms, offline-first mobile apps, and business automations without commercial intermediaries. | Containerized **Vue 3 / Nuxt** architecture running behind **Nginx** reverse proxy on dedicated private VPS with automated TLS. | <a href="https://casualidades.pt"><img src="https://img.shields.io/badge/Visit-0ea5e9?style=flat-square&logo=googlechrome&logoColor=white" alt="Visit" /></a> |
+| 🤖 [**Agentify AI**](https://app.agentifyai.pt) | Multi-tenant autonomous conversational AI platform powered by **RAG**. Embeddable website widgets, background queues, and real-time SSE streaming for 24/7 lead qualification. | Private **Ollama** local LLM inference + **Qdrant** Vector DB + **FastAPI** + **Redis Queue** on private VPS. Zero external AI API token costs or privacy leaks. | <a href="https://app.agentifyai.pt"><img src="https://img.shields.io/badge/Visit-0ea5e9?style=flat-square&logo=googlechrome&logoColor=white" alt="Visit" /></a> |
+| 🚗 [**Importa**](https://importa.casualidades.pt) | Real-time vehicle import cost simulation and tax calculation engine (ISV/VAT) between Germany and Portugal. Over **15,000 simulations processed** with live market viability insights. | Containerized **Go** calculation engine, distributed headless **Puppeteer** scraping workers, **MongoDB**, **Redis**, and self-hosted **Grafana/Loki** monitoring. | <a href="https://importa.casualidades.pt"><img src="https://img.shields.io/badge/Visit-0ea5e9?style=flat-square&logo=googlechrome&logoColor=white" alt="Visit" /></a> |
+| 📅 [**ShiftMate**](https://shiftmate.casualidades.pt) | **Offline-first** mobile platform for rotating shift scheduling, team rosters, and shift swaps designed for healthcare, hospitality, and logistics without network dependencies. | Self-hosted **Go** backend & **PostgreSQL** database running containerized behind **Nginx** reverse proxy with automated TLS certificates. | <a href="https://shiftmate.casualidades.pt"><img src="https://img.shields.io/badge/Visit-0ea5e9?style=flat-square&logo=googlechrome&logoColor=white" alt="Visit" /></a> |
+| 📸 [**Outro Olhar PH**](https://outro-olharph.casualidades.pt) | High-resolution editorial photography portfolio, client gallery, and private photo delivery platform. Fast image preview rendering, client proofing, and booking management. | High-throughput **Go** image pipeline backed by self-hosted distributed S3-compatible storage (**RustFS**) and **PostgreSQL** on private VPS. | <a href="https://outro-olharph.casualidades.pt"><img src="https://img.shields.io/badge/Visit-0ea5e9?style=flat-square&logo=googlechrome&logoColor=white" alt="Visit" /></a> |
+| 🛰️ [**ESP32 Mesh IoT**](https://github.com/rednexx46/esp32-firmware) | Complete off-grid sensor mesh network (ESP-NOW) with low-power environmental monitoring nodes (BME680), central Go orchestrator, telemetry API, and companion apps. | Fully off-grid capable. Local self-hosted **Go** orchestrator hub, **Mosquitto MQTT** broker, live web dashboard, and companion apps for **iOS** & **Android**. | <a href="https://github.com/rednexx46/esp32-firmware"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white" alt="Source" /></a><br/><sub>[Firmware](https://github.com/rednexx46/esp32-firmware) • [Hub](https://github.com/rednexx46/esp32-orchestrator) • [API](https://github.com/rednexx46/esp32-backend-api)<br/>[Web](https://github.com/rednexx46/esp32-frontend) • [iOS](https://github.com/rednexx46/esp32-ios-companion-app) • [Android](https://github.com/rednexx46/esp32-android-companion-app)</sub> |
 
 </div>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Systems Expertise
 
 <table>
   <tr>
-    <td width="20%"><strong>Languages</strong></td>
+    <td width="22%"><strong>Languages</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -68,7 +70,7 @@ Experienced across the full engineering lifecycle — from low-level embedded ha
     </td>
   </tr>
   <tr>
-    <td><strong>Backend & Systems</strong></td>
+    <td><strong>Backend & Distributed</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Go_Stdlib_%2F_Chi-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
@@ -76,9 +78,30 @@ Experienced across the full engineering lifecycle — from low-level embedded ha
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
       <img src="https://img.shields.io/badge/Redis_Queues_%26_PubSub-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-      <img src="https://img.shields.io/badge/RustFS_(S3_Compatible)-DEA584?style=flat-square&logo=amazons3&logoColor=white" alt="RustFS" />
       <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSockets" />
       <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" alt="MQTT" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Self-Hosted & Infra</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker_%26_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/Kubernetes_(k3s)-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="k3s" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+      <img src="https://img.shields.io/badge/Nginx_Reverse_Proxy-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
+      <img src="https://img.shields.io/badge/RustFS_(Private_S3)-DEA584?style=flat-square&logo=amazons3&logoColor=white" alt="RustFS" />
+      <img src="https://img.shields.io/badge/Tailscale_VPN-24292E?style=flat-square&logo=tailscale&logoColor=white" alt="Tailscale" />
+      <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>AI & Vector Systems</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Ollama_(Local_LLMs)-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
+      <img src="https://img.shields.io/badge/Qdrant_Vector_DB-DC2626?style=flat-square&logo=qdrant&logoColor=white" alt="Qdrant" />
+      <img src="https://img.shields.io/badge/RAG_Pipelines-0ea5e9?style=flat-square&logo=databricks&logoColor=white" alt="RAG" />
+      <img src="https://img.shields.io/badge/Autonomous_Agents-8B5CF6?style=flat-square&logo=openai&logoColor=white" alt="Agents" />
     </td>
   </tr>
   <tr>
@@ -86,36 +109,20 @@ Experienced across the full engineering lifecycle — from low-level embedded ha
     <td>
       <img src="https://img.shields.io/badge/Vue.js_3-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue 3" />
       <img src="https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
       <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
       <img src="https://img.shields.io/badge/Vuetify_4-1867C0?style=flat-square&logo=vuetify&logoColor=white" alt="Vuetify" />
-      <img src="https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=vue.js&logoColor=black" alt="Pinia" />
-      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
       <img src="https://img.shields.io/badge/iOS_Native_(Swift)-000000?style=flat-square&logo=apple&logoColor=white" alt="iOS" />
       <img src="https://img.shields.io/badge/Android_Native_(Kotlin)-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
     </td>
   </tr>
   <tr>
-    <td><strong>AI, IoT & Hardware</strong></td>
+    <td><strong>IoT & Telemetry</strong></td>
     <td>
       <img src="https://img.shields.io/badge/ESP32_SoC-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
       <img src="https://img.shields.io/badge/ESP--NOW_Mesh-E7352C?style=flat-square&logo=wi-fi&logoColor=white" alt="ESP-NOW" />
-      <img src="https://img.shields.io/badge/Qdrant_Vector_DB-DC2626?style=flat-square&logo=qdrant&logoColor=white" alt="Qdrant" />
-      <img src="https://img.shields.io/badge/RAG_Architecture-0ea5e9?style=flat-square&logo=databricks&logoColor=white" alt="RAG" />
-      <img src="https://img.shields.io/badge/Ollama_LLMs-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
       <img src="https://img.shields.io/badge/BME680_Sensors-4CAF50?style=flat-square&logo=arduino&logoColor=white" alt="Sensors" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Infra, DevOps & Ops</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Docker_%26_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
       <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
       <img src="https://img.shields.io/badge/Loki_Logging-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Loki" />
-      <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
     </td>
   </tr>
 </table>
@@ -140,18 +147,10 @@ Experienced across the full engineering lifecycle — from low-level embedded ha
 ### 💬 Let's Connect!
 
 <div align="center">
-  <p>Always open to discussing distributed systems architecture, IoT mesh engineering, or large-scale SaaS platform development.</p>
+  <p>Ready to build, scale, and self-host your next digital product or distributed system.</p>
   
-  <a href="mailto:josexavier46@outlook.pt">
-    <img src="https://img.shields.io/badge/Email-josexavier46%40outlook.pt-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/rednexx46">
-    <img src="https://img.shields.io/badge/GitHub-rednexx46-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/">
-    <img src="https://img.shields.io/badge/LinkedIn-José_Xavier-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://casualidades.pt">
+    <img src="https://img.shields.io/badge/Website-casualidades.pt-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
   </a>
 
   <br/><br/>
