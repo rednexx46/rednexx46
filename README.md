@@ -3,20 +3,6 @@
   # Hi there, I'm José Xavier 👋
   ### Software Engineer & Systems Architect • Founder at [Casualidades](https://casualidades.pt) 🚀
 
-  <p align="center">
-    <a href="https://casualidades.pt">
-      <img src="https://img.shields.io/badge/Official_Website-casualidades.pt-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="casualidades.pt" />
-    </a>
-    &nbsp;
-    <a href="mailto:josexavier46@outlook.pt">
-      <img src="https://img.shields.io/badge/Contact-josexavier46%40outlook.pt-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
-    </a>
-    &nbsp;
-    <a href="https://github.com/rednexx46">
-      <img src="https://img.shields.io/badge/GitHub-rednexx46-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-  </p>
-
   <a href="https://readme-typing-svg.demolab.com">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2600&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&lines=Founder+%26+Engineer+at+Casualidades+(casualidades.pt);100%25+Self-Hosted+Infrastructure+%26+Private+Cloud;High-Performance+Backends+in+Go+%26+Python;Autonomous+AI+Agents+%26+Local+RAG+(Ollama+%26+Qdrant);IoT+Mesh+Networks+(ESP32+%2F+ESP-NOW+%2F+MQTT)" alt="Typing SVG" />
   </a>
@@ -142,17 +128,3 @@
   </a>
 </div>
 
----
-
-### 💬 Let's Connect!
-
-<div align="center">
-  <p>Ready to build, scale, and self-host your next digital product or distributed system.</p>
-  
-  <a href="https://casualidades.pt">
-    <img src="https://img.shields.io/badge/Website-casualidades.pt-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
-  </a>
-
-  <br/><br/>
-  <sub><i>"Simplicity is prerequisite for reliability." — Edsger W. Dijkstra</i></sub>
-</div>
